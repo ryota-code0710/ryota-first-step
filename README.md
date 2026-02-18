@@ -17,7 +17,7 @@
 - **仕組み化**: 事務作業やスケジュール管理は、PCツールを駆使して「自動化」と「リマインダー」で徹底カバー。
 
 ## 🚀 公開中のプロジェクト
-- [My Portfolio](index.html): このリポジトリで公開している自己紹介サイトです（GitHub Pagesにて公開）。
+- [My Portfolio](https://ryota-code0710.github.io/ryota-first-step/): このリポジトリで公開している自己紹介サイトです（GitHub Pagesにて公開）。
 
 ---
 「まずはやってみる」の精神で、毎日コードに触れることを大切にしています。
